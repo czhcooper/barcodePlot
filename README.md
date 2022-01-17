@@ -1,6 +1,6 @@
 # barcodePlot
 Fast and convienient way to plot DNA barcode!
 
-#Usage
+# Usage
 
-#Plot examples
+# Plot examples
